@@ -22,6 +22,9 @@ Automated verification of digital roof edge data using **FME**.
 Master's thesis on the spatio-temporal modeling of the presence of *Aedes albopictus* using citizen science data.  
 The thesis, scripts, and publicly available data are provided.
 
+### **Schneeberg_3D.png**
+3D Visualization of the Schneeberg usign a digital terrain model and an orthophoto in Blender.  
+
 ### **U2_Ausbau.mp4**
 Visualization of the **U2 extension in Vienna**.  
 The animation was created in Blender with the help of the **BlenderGIS plugin**.
