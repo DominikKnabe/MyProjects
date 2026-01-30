@@ -2,6 +2,9 @@
 
 ## Repository Contents
 
+### **AirBNB_distributions**
+Analysis of AirBNB distribution comapred to the distribution of POIs in Vienna using Kerneld density estimates, DBSCAN for clustering and convex hulls in Python.
+
 ### **Animation_Seestadt**
 Visualization of the construction project of Vienna’s Seestadt Aspern.  
 The animations were created in **Blender**.
