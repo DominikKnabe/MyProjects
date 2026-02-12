@@ -22,7 +22,7 @@ Analysis of AirBNB distribution comapred to the distribution of POIs in Vienna u
 ### **ArcGIS_RemoteSensing_WaterLevelChanges_LakeNeusiedl.pdf**
 Feature classification of remote sensing data with subsequent analysis of water level changes in **Lake Neusiedl** using ArcGIS Pro.
 
-### **Classification_Storms_Knabe.ipynb**
+### **Python_Classification_Storms_Knabe.ipynb**
 Automated classification of extreme weather events using **Random Forest** and subsequent spatial analysis in **Python**.
 
 ### **FME_Photogrammetrische_Auswertung**
