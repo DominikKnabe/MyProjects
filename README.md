@@ -1,4 +1,4 @@
-# Geospatial Data Science & Remote Sensing Projects
+# Geospatial Data Science Projects
 
 This repository contains selected projects from my Master's studies in Geoinformation and Cartography at the University of Vienna.
 
