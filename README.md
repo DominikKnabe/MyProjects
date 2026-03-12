@@ -40,16 +40,19 @@ Automated verification of digital roof edge data using **FME**.
 ### **3D_Laser_Scanning_Abschlussbericht.pdf**
 Final report of my 3D-Laserscanning field trip and subsequent data analysis. 
 
+### **BlenderGIS_TDF_Stage21.mp4**
+I used the BlenderGIS Plugin in Blender to visualize the 21th Stage of the Tour de France 2024 with GPS-Track data.
+
 ### **Animation_Seestadt**
 Visualization of the construction project of Vienna’s Seestadt Aspern.  
 The animations were created in **Blender**.
 
-### **Schneeberg_3D.png**
-3D Visualization of the Schneeberg usign a digital terrain model and an orthophoto in Blender.  
-
 ### **U2_Ausbau.mp4**
 Visualization of the **U2 extension in Vienna**.  
 The animation was created in Blender with the help of the **BlenderGIS plugin**.
+
+### **Schneeberg_3D.png**
+3D Visualization of the Schneeberg usign a digital terrain model and an orthophoto in Blender.  
 
 ---
 
